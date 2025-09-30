@@ -1,0 +1,28 @@
+C:\Users\MINEDUCYT\Desktop\Parcial1-DSII-Daniel Mancia\bin\Debug\net8.0\Parcial1-DSII-Daniel Mancia.exe
+C:\Users\MINEDUCYT\Desktop\Parcial1-DSII-Daniel Mancia\bin\Debug\net8.0\Parcial1-DSII-Daniel Mancia.deps.json
+C:\Users\MINEDUCYT\Desktop\Parcial1-DSII-Daniel Mancia\bin\Debug\net8.0\Parcial1-DSII-Daniel Mancia.runtimeconfig.json
+C:\Users\MINEDUCYT\Desktop\Parcial1-DSII-Daniel Mancia\bin\Debug\net8.0\Parcial1-DSII-Daniel Mancia.dll
+C:\Users\MINEDUCYT\Desktop\Parcial1-DSII-Daniel Mancia\bin\Debug\net8.0\Parcial1-DSII-Daniel Mancia.pdb
+C:\Users\MINEDUCYT\Desktop\Parcial1-DSII-Daniel Mancia\obj\Debug\net8.0\Parcial1-DSII-Daniel Mancia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\Parcial1-DSII-Daniel Mancia\obj\Debug\net8.0\Parcial1-DSII-Daniel Mancia.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\Parcial1-DSII-Daniel Mancia\obj\Debug\net8.0\Parcial1-DSII-Daniel Mancia.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\Parcial1-DSII-Daniel Mancia\obj\Debug\net8.0\Parcial1-DSII-Daniel Mancia.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Parcial1-DSII-Daniel Mancia\obj\Debug\net8.0\Parcial1-DSII-Daniel Mancia.dll
+C:\Users\MINEDUCYT\Desktop\Parcial1-DSII-Daniel Mancia\obj\Debug\net8.0\refint\Parcial1-DSII-Daniel Mancia.dll
+C:\Users\MINEDUCYT\Desktop\Parcial1-DSII-Daniel Mancia\obj\Debug\net8.0\Parcial1-DSII-Daniel Mancia.pdb
+C:\Users\MINEDUCYT\Desktop\Parcial1-DSII-Daniel Mancia\obj\Debug\net8.0\Parcial1-DSII-Daniel Mancia.genruntimeconfig.cache
+C:\Users\MINEDUCYT\Desktop\Parcial1-DSII-Daniel Mancia\obj\Debug\net8.0\ref\Parcial1-DSII-Daniel Mancia.dll
+D:\Portafolio DM\Parcial1-DSII-Daniel Mancia\bin\Debug\net8.0\Parcial1-DSII-Daniel Mancia.exe
+D:\Portafolio DM\Parcial1-DSII-Daniel Mancia\bin\Debug\net8.0\Parcial1-DSII-Daniel Mancia.deps.json
+D:\Portafolio DM\Parcial1-DSII-Daniel Mancia\bin\Debug\net8.0\Parcial1-DSII-Daniel Mancia.runtimeconfig.json
+D:\Portafolio DM\Parcial1-DSII-Daniel Mancia\bin\Debug\net8.0\Parcial1-DSII-Daniel Mancia.dll
+D:\Portafolio DM\Parcial1-DSII-Daniel Mancia\bin\Debug\net8.0\Parcial1-DSII-Daniel Mancia.pdb
+D:\Portafolio DM\Parcial1-DSII-Daniel Mancia\obj\Debug\net8.0\Parcial1-DSII-Daniel Mancia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Portafolio DM\Parcial1-DSII-Daniel Mancia\obj\Debug\net8.0\Parcial1-DSII-Daniel Mancia.AssemblyInfoInputs.cache
+D:\Portafolio DM\Parcial1-DSII-Daniel Mancia\obj\Debug\net8.0\Parcial1-DSII-Daniel Mancia.AssemblyInfo.cs
+D:\Portafolio DM\Parcial1-DSII-Daniel Mancia\obj\Debug\net8.0\Parcial1-DSII-Daniel Mancia.csproj.CoreCompileInputs.cache
+D:\Portafolio DM\Parcial1-DSII-Daniel Mancia\obj\Debug\net8.0\Parcial1-DSII-Daniel Mancia.dll
+D:\Portafolio DM\Parcial1-DSII-Daniel Mancia\obj\Debug\net8.0\refint\Parcial1-DSII-Daniel Mancia.dll
+D:\Portafolio DM\Parcial1-DSII-Daniel Mancia\obj\Debug\net8.0\Parcial1-DSII-Daniel Mancia.pdb
+D:\Portafolio DM\Parcial1-DSII-Daniel Mancia\obj\Debug\net8.0\Parcial1-DSII-Daniel Mancia.genruntimeconfig.cache
+D:\Portafolio DM\Parcial1-DSII-Daniel Mancia\obj\Debug\net8.0\ref\Parcial1-DSII-Daniel Mancia.dll
