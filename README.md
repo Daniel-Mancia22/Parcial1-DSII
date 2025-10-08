@@ -29,20 +29,19 @@ Implementa un sistema de gestión de vehículos utilizando Programación Orienta
 
 - **Conceptos Técnicos**
     - **Clases y Objetos:** Definición e instanciación correcta
-
     - **Modificadores de Acceso:** Uso apropiado de public/private
-
     - **Métodos Virtuales:** Preparación para polimorfismo
-
     - **Sobrescritura:** Especialización de comportamiento
-
     - **Constructores:** Inicialización segura de objetos
 
 - **Buenas Prácticas**
     - **Código Limpio:** Nombres descriptivos y estructura clara
-
     - **Validaciones:** Prevención de estados inválidos
-
     - **Reutilización:** Herencia para evitar duplicación
-
     - **Mantenibilidad:** Código fácil de extender y modificar
+
+## 👨🏽‍💻 Desarrollador
+- [Daniel Mancia](https://github.com/Daniel-Mancia22) - DevMadCode
+
+## 📄 Notas
+Este proyecto es desarrollado con fines académicos para mi primer Parcial de la materia de Desarrollo de Sotfware II.
