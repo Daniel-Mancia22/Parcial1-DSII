@@ -1,6 +1,6 @@
 # 🚗 Sistema de Gestión de Vehículos - Primer Parcial DSII
 
-Este proyecto es una solución completa en C# para el primer examen parcial de "Desarrollo de Software II". 
+Este proyecto es una solución completa en C# para el primer examen parcial de Desarrollo de Software II. 
 Implementa un sistema de gestión de vehículos utilizando Programación Orientada a Objetos, herencia y polimorfismo.
 
 ## 🛠 Tecnologías Utilizadas
